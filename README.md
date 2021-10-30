@@ -1,3 +1,40 @@
+<img src="app-UI1.png">
+<img src="app-UI2.png">
+
+<!--DESCRIPTION-->
+### Description
+
+This tool is a React Chat App made with React and React-Chat-Engine using yarn package and netlify.
+
+<!-- PACKAGE NEEDED -->
+### Package Needed
+Open [https://yarnpkg.com/] to install Yarn package.
+
+<!-- CONTRIBUTION PROCEDURE -->
+### Contributing
+
+Contributions are what makes the open source community such an amazing place to learn, inspire, and create. Any contributions you make are greatly appreciated.
+
+If you have an idea that would improve this, if it's not too much trouble, fork the repo and make a draw demand. You can likewise essentially open an issue with the tag "enhancement". 
+
+Remember to give the undertaking a star! Much appreciated once more!
+
+1. Fork the Project
+2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the Branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
+
+<!--TECH STACK-->
+### Built With
+
+* [Yarn](https://yarnpkg.com//)
+* [React](https://reactjs.org//)
+* [React-Chat-Engine](https://www.npmjs.com/package/react-chat-engine//) 
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
