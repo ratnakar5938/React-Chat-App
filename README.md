@@ -2,6 +2,8 @@
 
 This is a simple chat application made using react. User's can login and start chatting.
 
+## Demo:
+
 ![alt text](https://raw.githubusercontent.com/ratnakar5938/React-Chat-App/master/demo.gif)
 
 Home Page:
@@ -16,15 +18,15 @@ Clone down this repository. You will need node and npm installed globally on you
 
 Installation:
 
-### `npm install`
+### `yarn install`
 
 To Run Test Suite:
 
-### `npm test`
+### `yarn test`
 
 To Start Server:
 
-### `npm start`
+### `yarn start`
 
 To Visit App:
 
