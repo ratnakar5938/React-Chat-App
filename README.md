@@ -1,70 +1,118 @@
 # React-Chat-App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is a simple chat application made using react. User's can login and start chatting.
 
-## Available Scripts
+![alt text](https://raw.githubusercontent.com/ratnakar5938/React-Chat-App/master/demo.gif)
 
-In the project directory, you can run:
+Home Page:
+![alt text](https://res.cloudinary.com/ratnakar5938/image/upload/v1635533156/React-chat%20app/Screenshot_147_cud1fx.png)
 
-### `yarn start`
+Chats:
+![alt text](https://res.cloudinary.com/ratnakar5938/image/upload/v1635533153/React-chat%20app/Screenshot_148_zrliyn.png)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+## Installation and Setup Instructions
+Example:
+Clone down this repository. You will need node and npm installed globally on your machine.
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+Installation:
 
-### `yarn test`
+### `npm install`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+To Run Test Suite:
 
-### `yarn build`
+### `npm test`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+To Start Server:
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+### `npm start`
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+To Visit App:
 
-### `yarn eject`
+localhost:3000/
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+## Tech Stack: 
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+### `React`
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+### `React-Chat-Engine`
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
-## Learn More
+## Contribution:
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+# Contributing Guidelines
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+We would love to accept your contributions! To start contributing, follow the below guidelines:
 
-### Code Splitting
+**1.** Fork [this](https://github.com/ratnakar5938/React-Chat-App) repository.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+**2.** Clone your forked copy of the project.
 
-### Analyzing the Bundle Size
+```
+git clone https://github.com/<your_user_name>/React-Chat-App.git
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+```
 
-### Making a Progressive Web App
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
 
-### Advanced Configuration
+**3.** Navigate to the project directory :file_folder: .
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+```
+cd React-Chat-App
+```
 
-### Deployment
+**4.** Add a reference(remote) to the original repository.
+```
+git remote add upstream https://github.com/ratnakar5938/React-Chat-App.git
+```
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+**5.** Check the remotes for this repository.
 
-### `yarn build` fails to minify
+```
+git remote -v
+```
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+**6.** Always take a pull from the upstream repository to your master branch to keep it at par with the main project(updated repository).
+
+```
+git pull upstream master
+```
+
+**7.** Create a new branch.
+
+```
+git checkout -b <your_branch_name>
+```
+
+**8.** Perform your desired changes to the code base.
+
+
+
+**9.** Track your changes:heavy_check_mark: .
+
+```
+git add .
+```
+
+**10.** Commit your changes
+```
+git commit -m "Relevant message"
+```
+
+**11.** Push the committed changes in your feature branch to your remote repo.
+
+```
+git push -u origin <your_branch_name>
+```
+
+**12.** To create a pull request, click on `compare and pull requests`. Please ensure that you compare your feature branch to the desired branch of the repo you are supposed to make a PR to.
+
+
+## Deployment:
+
+### `Netlify`
+
+## Package Manager:
+
+### `Yarn`
+
+
