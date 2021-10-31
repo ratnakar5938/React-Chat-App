@@ -1,6 +1,6 @@
 # React-Chat-App
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 This is a simple chat application made using react. User's can login and start chatting.
@@ -132,6 +132,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <table>
   <tr>
     <td align="center"><a href="https://www.linkedin.com/in/ratnakar-sahoo-a78401135"><img src="https://avatars.githubusercontent.com/u/80893583?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Ratnakar Sahoo</b></sub></a><br /><a href="https://github.com/ratnakar5938/React-Chat-App/commits?author=ratnakar5938" title="Code">💻</a> <a href="#content-ratnakar5938" title="Content">🖋</a> <a href="#design-ratnakar5938" title="Design">🎨</a> <a href="#maintenance-ratnakar5938" title="Maintenance">🚧</a> <a href="https://github.com/ratnakar5938/React-Chat-App/pulls?q=is%3Apr+reviewed-by%3Aratnakar5938" title="Reviewed Pull Requests">👀</a></td>
+    <td align="center"><a href="https://www.linkedin.com/in/naman-girdhar-05a7721a7/"><img src="https://avatars.githubusercontent.com/u/64246118?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Naman Girdhar</b></sub></a><br /><a href="https://github.com/ratnakar5938/React-Chat-App/commits?author=namangirdhar16" title="Documentation">📖</a></td>
   </tr>
 </table>
 
